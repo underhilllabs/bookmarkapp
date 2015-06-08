@@ -1,0 +1,13 @@
+{
+    "uk.co.ibcomputing.phonegapbuild.plugins.receivesendintents": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ibcomputing/phonegapbuildReceiveSendIntents.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {
+            "LAUNCHMODE": "singleTop"
+        }
+    }
+}
